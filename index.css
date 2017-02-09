@@ -1,0 +1,41 @@
+h1 {
+    background-image: url("backgroundImage.jpeg");
+}
+
+triangle1 {
+    position: static;
+    text-align: center;
+    padding: 50%;
+}
+
+a:hover {
+    color: cyan;
+}
+
+a:link {
+    color: lightpink;
+    text-decoration: none;
+}
+
+a:visited {
+    color: white;
+}
+
+triangle2 {
+    position: static:
+}
+
+p.directory {
+    position: relative;
+    color: white;
+    text-shadow: 5px 2px 4px red;
+    font-family: Lobster, cursive;
+    border-style: solid;
+    border-width: medium;
+    border-color: white;
+}
+
+@font-face {
+    font-family: cursive;
+    src: url('Lobster-Regular.ttf');
+}
